@@ -35,7 +35,7 @@ public interface CalcInterface {
 
 	public Double display_PI();
 
-	public Double sin(double d);//Usama Interface		
+	public Double sin(double d);//Usama Interface //hello		
 
-	public Double cos(double d);//Usama Interface
+	public Double cos(double d);//hello
 }
