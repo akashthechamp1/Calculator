@@ -7,6 +7,8 @@ package com.morningstar.Calculators;
  * @author mdeshpa
  *
  */
+//This is comment made by Nikhil .
+
 public interface CalcInterface {
 
 	public Double add(double input1, double input2);
