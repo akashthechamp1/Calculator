@@ -25,7 +25,7 @@ public interface CalcInterface {
 
 	public double logc(double a);
 
-	public double mod(double input1, double input2); //sorry mandar
+	public double mod(double input1, double input2); //sorry mandar again
 
 	public double GeoTan(double input1);
 
