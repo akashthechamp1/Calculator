@@ -156,7 +156,7 @@ public class CalcApplicationTest {
 		double ActualOut = cl.logc(21);
 		assertEquals(ExpectedOut, ActualOut, 0.0001);
 	}
-
+	//usama Test-Case
 	@Test
 	public void sin() {
 
@@ -164,7 +164,7 @@ public class CalcApplicationTest {
 		Double ActualOut = cl.sin(30.0);
 		assertEquals(ExpectedOut, ActualOut);
 	}
-
+	//usama Test-Case
 	@Test
 	public void cos() {
 

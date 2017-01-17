@@ -75,13 +75,13 @@ public class CalcApplication implements CalcInterface {
 	public Double display_PI() {
 		return Math.PI;
 	}
-
+	//Method by usama
 	public Double sin(double a) {
 
 		return Math.sin(Math.toRadians(a));
 
 	}
-
+	//Method by usama
 	public Double cos(double a) {
 
 		return Math.cos(Math.toRadians(a));
